@@ -1,2 +1,6 @@
 # raytracing
-My very first ray tracer
+1337 miniRT project
+
+make
+
+./MiniRt your_scene_file.rt

@@ -1,2 +1,0 @@
-cc *.c -o minirt utils/*.c config/*.c geometry/*.c libft/*.c -I utils/utils.h -I config/config.h -I geometry/geometry.h -I libft/libft.h -I minirt.h -lmlx -framework openGL -framework AppKit
-./minirt scenes/sphere.rt
